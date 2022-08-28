@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="CustomSpinner">
+        <attr name="spinnerLabel" format="string" />
+        <attr name="spinnerImage" format="reference"/>
+        <attr name="spinnerEnable" format="boolean"/>
+        <attr name="spinnerImageVisibility" format="boolean"/>
+        <attr name="spinnerVisibility" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="SearchableSpinner">
+        <attr name="hintText" format="string"/>
+    </declare-styleable>
+</resources>
